@@ -1,0 +1,11 @@
+paradigm 1 - use sql - to automate analytics and reporting
+advantages - autommation is useful, great for productionized reports (repeated/scheduled reports eg every monday), dashboard refreshes
+deisad - cant use sql for statistics
+
+paradigm 2 - excel for everything
+advantages - exvel has great analytical features, easily accessible
+disadv - no data integrity, copy and paste for reports is no value added acticity
+
+paradigm 3 - use tableau
+advantages - easy to learn, has very advanced features, no sql, great for data exploration
+disadv - expensive, can create false sense of expertise, protcet against being pigeon holed (don't be dependent on it)
